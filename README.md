@@ -4,5 +4,5 @@ Quantifying water clarity in Michigan inland lakes with Landsat-8 & -9 and Senti
 
 
 Structure:
-- gen_image_data: apply atmospheric correction to imagery and extract spectral reflectances at field sampled points (MISecchi_) or lake centroids (allLakes)
+- gen_rs_data: apply atmospheric correction to imagery and extract spectral reflectances at field sampled points (MISecchi_) or lake centroids (allLakes)
 - tidy_rs_data: cleans and reformats Colab exported tables from the previous step
